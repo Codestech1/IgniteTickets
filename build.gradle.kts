@@ -3,7 +3,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
-group = "io.github.ignitepoland.tickets"
+group = "io.github.ignitepoland.administration"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -23,6 +23,6 @@ kotlin {
 
 tasks.withType<Jar> {
     manifest {
-        attributes["Main-Class"] = "io.github.ignitepoland.template.BotMainKt"
+        attributes["Main-Class"] = "io.github.ignitepoland.administration.BotMainKt"
     }
 }
