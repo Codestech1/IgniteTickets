@@ -1,3 +1,3 @@
 
-rootProject.name = "IgniteTemplate"
+rootProject.name = "IgniteTickets"
 

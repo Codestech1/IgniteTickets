@@ -3,7 +3,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
-group = "io.github.ignitepoland.template"
+group = "io.github.ignitepoland.tickets"
 version = "1.0-SNAPSHOT"
 
 repositories {

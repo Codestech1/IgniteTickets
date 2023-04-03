@@ -1,4 +1,4 @@
-package io.github.ignitepoland.template.commands
+package io.github.ignitepoland.tickets.commands
 
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent
 import net.dv8tion.jda.api.hooks.ListenerAdapter

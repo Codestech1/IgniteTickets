@@ -1,11 +1,11 @@
-package io.github.ignitepoland.template
+package io.github.ignitepoland.tickets
 
 import dev.minn.jda.ktx.interactions.commands.option
 import dev.minn.jda.ktx.interactions.commands.restrict
 import dev.minn.jda.ktx.interactions.commands.slash
 import net.dv8tion.jda.api.JDABuilder
 import dev.minn.jda.ktx.interactions.commands.updateCommands
-import io.github.ignitepoland.template.commands.PingCommand
+import io.github.ignitepoland.tickets.commands.PingCommand
 import net.dv8tion.jda.api.Permission
 
 fun main() {
