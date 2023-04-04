@@ -1,4 +1,4 @@
-package io.github.ignitepoland.administration.module
+package io.github.ignitepoland.bot.module
 
 import dev.minn.jda.ktx.generics.getChannel
 import dev.minn.jda.ktx.messages.EmbedBuilder
